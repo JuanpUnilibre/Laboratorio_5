@@ -1,1 +1,0 @@
-Acá ira lo de   SQL o SQLite
